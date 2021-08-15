@@ -1,6 +1,6 @@
-package main.java.ru.zychkov.generative.builder.example2.components;
+package ru.zychkov.generative.builder.example2.components;
 
-import main.java.ru.zychkov.generative.builder.example2.cars.Car;
+import ru.zychkov.generative.builder.example2.cars.Car;
 
 public class TripComputer {
 

@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.behavioral.chainofresponsibility.example1;
+package ru.zychkov.behavioral.chainofresponsibility.example1;
 
 public class ChainOfResponsibilityMain {
 

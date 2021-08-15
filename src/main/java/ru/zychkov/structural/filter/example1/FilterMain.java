@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.filter.example1;
+package ru.zychkov.structural.filter.example1;
 
 import java.util.ArrayList;
 import java.util.List;

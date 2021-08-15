@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.prototype.example1;
+package ru.zychkov.generative.prototype.example1;
 
 public class PrototypeMain {
 

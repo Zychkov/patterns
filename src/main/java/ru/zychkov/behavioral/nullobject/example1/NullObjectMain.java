@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.behavioral.nullobject.example1;
+package ru.zychkov.behavioral.nullobject.example1;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.behavioral.state.example1;
+package ru.zychkov.behavioral.state.example1;
 
 public class StateMain {
 

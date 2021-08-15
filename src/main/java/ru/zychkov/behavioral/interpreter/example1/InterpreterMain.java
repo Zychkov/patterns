@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.behavioral.interpreter.example1;
+package ru.zychkov.behavioral.interpreter.example1;
 
 import java.util.Stack;
 

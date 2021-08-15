@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.bridge.example2.remotes;
+package ru.zychkov.structural.bridge.example2.remotes;
 
 public interface Remote {
 

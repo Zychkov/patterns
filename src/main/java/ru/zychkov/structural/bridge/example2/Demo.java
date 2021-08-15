@@ -1,10 +1,10 @@
-package main.java.ru.zychkov.structural.bridge.example2;
+package ru.zychkov.structural.bridge.example2;
 
-import main.java.ru.zychkov.structural.bridge.example2.devices.Device;
-import main.java.ru.zychkov.structural.bridge.example2.devices.Radio;
-import main.java.ru.zychkov.structural.bridge.example2.devices.Tv;
-import main.java.ru.zychkov.structural.bridge.example2.remotes.AdvancedRemote;
-import main.java.ru.zychkov.structural.bridge.example2.remotes.BasicRemote;
+import ru.zychkov.structural.bridge.example2.devices.Device;
+import ru.zychkov.structural.bridge.example2.devices.Radio;
+import ru.zychkov.structural.bridge.example2.devices.Tv;
+import ru.zychkov.structural.bridge.example2.remotes.AdvancedRemote;
+import ru.zychkov.structural.bridge.example2.remotes.BasicRemote;
 
 public class Demo {
     public static void main(String[] args) {

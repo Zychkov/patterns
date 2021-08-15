@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.builder.example2.components;
+package ru.zychkov.generative.builder.example2.components;
 
 public class GPSNavigator {
     private String route;

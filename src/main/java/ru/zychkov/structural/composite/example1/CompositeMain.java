@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.composite.example1;
+package ru.zychkov.structural.composite.example1;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.bridge.example2.devices;
+package ru.zychkov.structural.bridge.example2.devices;
 
 public interface Device {
 

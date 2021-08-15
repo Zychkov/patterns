@@ -1,9 +1,9 @@
-package main.java.ru.zychkov.generative.builder.example2.cars;
+package ru.zychkov.generative.builder.example2.cars;
 
-import main.java.ru.zychkov.generative.builder.example2.components.Engine;
-import main.java.ru.zychkov.generative.builder.example2.components.GPSNavigator;
-import main.java.ru.zychkov.generative.builder.example2.components.Transmission;
-import main.java.ru.zychkov.generative.builder.example2.components.TripComputer;
+import ru.zychkov.generative.builder.example2.components.Engine;
+import ru.zychkov.generative.builder.example2.components.GPSNavigator;
+import ru.zychkov.generative.builder.example2.components.Transmission;
+import ru.zychkov.generative.builder.example2.components.TripComputer;
 
 public class Car {
 

@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.proxy.example1;
+package ru.zychkov.structural.proxy.example1;
 
 public class ProxyMain {
 

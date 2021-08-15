@@ -1,9 +1,9 @@
-package main.java.ru.zychkov.generative.builder.example2;
+package ru.zychkov.generative.builder.example2;
 
-import main.java.ru.zychkov.generative.builder.example2.builders.CarBuilder;
-import main.java.ru.zychkov.generative.builder.example2.builders.CarManualBuilder;
-import main.java.ru.zychkov.generative.builder.example2.cars.Car;
-import main.java.ru.zychkov.generative.builder.example2.cars.Manual;
+import ru.zychkov.generative.builder.example2.builders.CarBuilder;
+import ru.zychkov.generative.builder.example2.builders.CarManualBuilder;
+import ru.zychkov.generative.builder.example2.cars.Car;
+import ru.zychkov.generative.builder.example2.cars.Manual;
 
 public class Demo {
 

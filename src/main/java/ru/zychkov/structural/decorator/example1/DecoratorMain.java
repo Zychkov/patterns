@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.decorator.example1;
+package ru.zychkov.structural.decorator.example1;
 
 public class DecoratorMain {
 

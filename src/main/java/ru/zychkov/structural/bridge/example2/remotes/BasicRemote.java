@@ -1,6 +1,6 @@
-package main.java.ru.zychkov.structural.bridge.example2.remotes;
+package ru.zychkov.structural.bridge.example2.remotes;
 
-import main.java.ru.zychkov.structural.bridge.example2.devices.Device;
+import ru.zychkov.structural.bridge.example2.devices.Device;
 
 public class BasicRemote implements Remote {
     protected Device device;

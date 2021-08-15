@@ -1,11 +1,11 @@
-package main.java.ru.zychkov.generative.builder.example2;
+package ru.zychkov.generative.builder.example2;
 
-import main.java.ru.zychkov.generative.builder.example2.builders.Builder;
-import main.java.ru.zychkov.generative.builder.example2.cars.CarType;
-import main.java.ru.zychkov.generative.builder.example2.components.Engine;
-import main.java.ru.zychkov.generative.builder.example2.components.GPSNavigator;
-import main.java.ru.zychkov.generative.builder.example2.components.Transmission;
-import main.java.ru.zychkov.generative.builder.example2.components.TripComputer;
+import ru.zychkov.generative.builder.example2.builders.Builder;
+import ru.zychkov.generative.builder.example2.cars.CarType;
+import ru.zychkov.generative.builder.example2.components.Engine;
+import ru.zychkov.generative.builder.example2.components.GPSNavigator;
+import ru.zychkov.generative.builder.example2.components.Transmission;
+import ru.zychkov.generative.builder.example2.components.TripComputer;
 
 public class Director {
 

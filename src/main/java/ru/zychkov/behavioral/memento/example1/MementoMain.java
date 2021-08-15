@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.behavioral.memento.example1;
+package ru.zychkov.behavioral.memento.example1;
 
 public class MementoMain {
 

@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.bridge.example1;
+package ru.zychkov.structural.bridge.example1;
 
 public class BridgeMain {
 

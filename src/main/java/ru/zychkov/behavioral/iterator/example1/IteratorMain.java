@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.behavioral.iterator.example1;
+package ru.zychkov.behavioral.iterator.example1;
 
 public class IteratorMain {
 

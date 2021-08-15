@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.objectpool.example1;
+package ru.zychkov.generative.objectpool.example1;
 
 import java.util.LinkedList;
 import java.util.List;

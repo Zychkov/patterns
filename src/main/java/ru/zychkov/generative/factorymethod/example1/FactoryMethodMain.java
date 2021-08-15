@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.factorymethod.example1;
+package ru.zychkov.generative.factorymethod.example1;
 
 public class FactoryMethodMain {
 

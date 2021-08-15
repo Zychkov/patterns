@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.adapter.example1;
+package ru.zychkov.structural.adapter.example1;
 
 public class AdapterMain {
 

@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.builder.example1;
+package ru.zychkov.generative.builder.example1;
 
 public class BuilderMain {
 

@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.flyweight.example1;
+package ru.zychkov.structural.flyweight.example1;
 
 import java.util.HashMap;
 import java.util.Map;

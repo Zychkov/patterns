@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.singleton.example1;
+package ru.zychkov.generative.singleton.example1;
 
 public class SingletonMain {
 

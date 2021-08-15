@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.behavioral.command.example1;
+package ru.zychkov.behavioral.command.example1;
 
 import java.util.ArrayList;
 import java.util.List;

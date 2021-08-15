@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.builder.example2.components;
+package ru.zychkov.generative.builder.example2.components;
 
 public enum Transmission {
     SINGLE_SPEED, MANUAL, AUTOMATIC, SEMI_AUTOMATIC

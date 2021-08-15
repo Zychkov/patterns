@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.generative.abstractfactory.example1;
+package ru.zychkov.generative.abstractfactory.example1;
 
 public class AbstractFactoryMain {
 

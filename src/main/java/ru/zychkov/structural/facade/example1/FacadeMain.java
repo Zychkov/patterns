@@ -1,4 +1,4 @@
-package main.java.ru.zychkov.structural.facade.example1;
+package ru.zychkov.structural.facade.example1;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
